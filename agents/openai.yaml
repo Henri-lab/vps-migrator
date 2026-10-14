@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS 迁移自动化构建器"
+  short_description: "扫描-计划-确认-执行的服务器迁移技能（Docker+GitHub）"
+  default_prompt: "Use $vps-migrator to 扫描旧服务器并生成可复核的迁移计划。"
