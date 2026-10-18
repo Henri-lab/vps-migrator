@@ -2,6 +2,7 @@
 
 > 执行本技能的第一步必读。访谈规则（三问 / 保守假设 / 理由要求）的**唯一权威**见
 > agent-skills-index 的 `conventions/solution-interview.md`；本文只保留本技能的场景矩阵（A/B/C/D）。
+> 技术选型第二层访谈见 agent-skills-index 的 `conventions/stack-interview.md`。
 
 ## 1. 访谈（一次问清，≤3 问）
 
