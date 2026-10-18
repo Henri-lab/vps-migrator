@@ -41,3 +41,4 @@
 1. frontmatter `name` 与目录名一致、`description` 能区分场景；
 2. SKILL.md 引用文件都存在；3. 无待办标记；4. 新增条目未含机密；5. 副本已同步；
 6. 新增原则/概念前查 agent-skills-index 的 `concept-map.md`：已有则引用不复制，新概念先登记权威位置。
+7. 决策回填与提升规则见 agent-skills-index 的 `conventions/knowledge-evolution.md`（证据等级：真实反例 > 推理）。
