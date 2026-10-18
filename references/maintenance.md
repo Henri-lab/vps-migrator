@@ -29,8 +29,7 @@
 
 ## 4. 同步与版本
 
-**唯一上游：独立开源仓库（vps-migrator）。** `platform-kit/skills/` 为 vendored 副本，
-`~/.codex/skills/` 为安装副本——编辑只在上游，单向同步。
+**唯一上游：独立开源仓库（vps-migrator）。** `~/.codex/skills/` 为安装副本——编辑只在上游，单向同步（上游 → 安装副本）。
 
 | 版本 | 日期 | 变更 |
 | --- | --- | --- |
